@@ -1,8 +1,9 @@
 
 
 # 🌀 9. The Monolithic 3-Disk 120° Hybrid Fluid-Clutch Resonator ## 🎯 9.1. Kinematic & Geometric System Architecture The system completely rejects standard centralized staging and multi-ratio mechanical gearboxes of the internal combustion era, implementing a direct-drive, zero-backlash volumetric-dynamic fluid-clutch. The rotating assembly features a single, un-fragmented structural shaft holding three round steel/titanium discs precision-machined on a standard domestic lathe. To eliminate static stall zones (dead centers) and high-frequency torque ripples at 0 RPM, the blades (semi-circular reactive cups or " стаканы ") are profile-milled directly into the disc perimeter with a strict 120-degree spatial phase shift. The stator casing deploys an asymmetric 3-nozzle tangentially offset injection grid (one independent nozzle per disc), ensuring that at any arbitrary static orientation of the rotor, at least one nozzle maintains a 100% effective aperture window open directly into a reactive cup. This geometry delivers an instantaneous, high-torque hydro-dynamic self-start under peak load with 0 Watt electrical power draw from the battery buffer rail. 
+*****
 
-
+<img src="www37.png" width="100%"> 
 
 ******
 
